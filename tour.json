@@ -1,6 +1,4 @@
 {
-    "autoLoad": true,
-    "compass": false,
     "default": {
         "firstScene": "office",
         "sceneFadeDuration": 1000
